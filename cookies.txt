@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+salonsafari.com	TRUE	/	FALSE	1999999999	localization	CA
+salonsafari.com	TRUE	/	FALSE	1999999999	_shopify_essential	:AZ2HQMQ5AAEAFbE5FpkZHxbd69UKZ1RbVEEvL8y9BvEUrv3RjBnK-cIMVL1MpMEcuDNqlWBiOGEdxG763yEL5Y9dZ7uDvBsyCQfO80KDm2qULEv23gb_EBYaqhYZ06xiALJ5DetCj11sC0J618Jjlblv4ofvgAw-fmi9wGqGJe4pxPIsPIGSk33ECYoAy7RFLM1d7duh6W_m7PkuUIR7_EBLPodWS9dFCZG2iFpD_IIaNe2gBwFHcT_WmgSnv8BnVWSb6VW-1WT0BuBX37dJBWc8-RUhJoWB6BYqZfA0YfvtnBZ1NrsXSO4nhqj-AwQFXa03N3OylEaUUEcf0SzcXqqWE3jJ0o7vtwI7RPLdqkcslaaLpBo8y4a0WB5qKUNW4HSMr9FRA5M0PzLHKl91AKboS4o:
+salonsafari.com	TRUE	/	FALSE	1999999999	_shopify_analytics	:AZ2HQMRNAAEAImfZwZV_EOqK4Th8t4GKvULVmc0BPVhpFqj5uv4UFMpw7hCJJY1UkcqE6_N8wdhpJfp7_GCwwgE5IsqWr6XQT-EEe7Q:
+salonsafari.com	TRUE	/	FALSE	1999999999	_shopify_marketing	:AZ2HQMRNAAEAczi-3jJ4OnVsZ-wVy1OcZcAlfq6-CDDzBdy7JjHCuiMJRn9Uh3ZA49hCjXzYKfdGJD2a_AJcq2yErUE:
+salonsafari.com	TRUE	/	FALSE	1999999999	Priority	High
+salonsafari.com	TRUE	/	FALSE	1999999999	cart_currency	CAD
+salonsafari.com	TRUE	/	FALSE	1999999999	_shopify_y	e883c3e2-ec78-4a87-a73f-8272debb1b6d
+salonsafari.com	TRUE	/	FALSE	1999999999	_shopify_s	53756462-6702-43f9-8901-628ca3d220d8
+salonsafari.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.altitudesalonllc.com	TRUE	/	FALSE	1999999999	crumb	BUUSIlqk+wKVMzBjMGVhYzFmODc5MTk1MzZkN2EyOTMyOTJmYjc0
+altitude.aurasalonware.com	TRUE	/	FALSE	1999999999	__Secure-SessionId	b79jv9mk22tubdgeobbscbagv48avfrulhiq9ppp9g9e25f7u0rm31q11dn4fvdj85k7gv584ajq716o0hke5jlmrp5r9lai
+altitude.aurasalonware.com	TRUE	/	FALSE	1999999999	SameSite	None
+
